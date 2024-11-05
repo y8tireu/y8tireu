@@ -1,13 +1,21 @@
-# Hello, I'm Sanjivram Balasubramanian 
+# Hello, I’m Sanjivram Balasubramanian, a dedicated developer with expertise in multiple programming languages and frameworks, committed to creating efficient and scalable solutions.
 
 ## About Me
 - 🌱 I’m currently learning **[I am currently learning Python backend development, html5 C++.]**
 
 
 ## 🔧 Skills & Tools
-- **Languages**: [The Coding Languages i currently use are,Html,Css,Js,Python,C++,Lua And Java]
-- **Tools**: [The tools that i use are Git,Vscode,Jetbrains ides like Pycharm And chatgpt. I also use github pages, netlify, vercel to deploy my websites for free]
-- **Frameworks**: [The Frameworks i use for Python is,Flask,FastAPI,Tkinter And Pygame. For Html and Css i use, Bootstrap,Tailwind CSS,Foundation And Bulma. For Javascript i use React,Vue.js,Angular,Express.js And Node.js]
+- **Languages**: [ I currently work with HTML, CSS, JavaScript, Python, C++, Lua, and Java, allowing me to build both front-end and back-end applications.]
+- **Tools**: [My toolkit includes Git for version control, Visual Studio Code and JetBrains IDEs (like PyCharm) for code development, and ChatGPT for AI-powered assistance. I deploy my web projects using GitHub Pages, Netlify, and Vercel, leveraging free hosting services for quick and easy deployment.]
+- **Frameworks **: [Python: Proficient in Flask and FastAPI for web development and API creation, with experience in Tkinter for GUI applications and Pygame for game development.
+Frontend (HTML/CSS): Skilled in using Bootstrap, Tailwind CSS, Foundation, and Bulma to design responsive and visually appealing interfaces.
+JavaScript: Experienced with popular JavaScript frameworks and libraries, including React, Vue.js, and Angular for building dynamic, single-page applications, and Node.js and Express.js for back-end services and server-side logic.]
+- **Libaries **: [Libraries: I frequently work with libraries like NumPy and pandas for data processing, Matplotlib and Seaborn for data visualization, and TensorFlow and Keras for machine learning.]
+- **Databases **: [Experienced in using SQL-based databases like MySQL and PostgreSQL, as well as NoSQL databases like MongoDB and Firebase for data storage and management.]
+- **Version Control & Collaboration: [Proficient with Git and GitHub for version control, and familiar with GitHub Actions for CI/CD, ensuring efficient project management and seamless collaboration.]
+- ** Deployment And Cloud Services: [Knowledgeable in deploying applications on cloud platforms like AWS and DigitalOcean, with experience in Docker for containerization and Heroku for hosting web applications.]
+
+
 
 
 ## 📈 GitHub Stats
