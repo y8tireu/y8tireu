@@ -17,16 +17,16 @@
 
 
 ## Projects
-https://y8tireu.github.io/Website2/                                          
-https://y8tireu.github.io/Fruit-Ninja/
-https://github.com/y8tireu/My-Python-Projects/
-https://github.com/y8tireu/Sanjivram-Search-Engine/
-https://sanjivramgamehub.netlify.app/
-https://y8tireu.github.io/Gamehub/
-https://github.com/y8tireu/CraftMine/
-https://y8tireu.github.io/Tag/
-https://y8tireu.github.io/Tag2/
-https://y8tireu.github.io/Sanjivram-Search-Engine2/
+ https://y8tireu.github.io/Website2/                                        
+ https://y8tireu.github.io/Fruit-Ninja/
+ https://github.com/y8tireu/My-Python-Projects/
+ https://github.com/y8tireu/Sanjivram-Search-Engine/
+ https://sanjivramgamehub.netlify.app/
+ https://y8tireu.github.io/Gamehub/
+ https://github.com/y8tireu/CraftMine/
+ https://y8tireu.github.io/Tag/
+ https://y8tireu.github.io/Tag2/
+ https://y8tireu.github.io/Sanjivram-Search-Engine2/
 
 ## 📫 Connect with Me
 -Youtube:https://youtube.com/@y8tireu
