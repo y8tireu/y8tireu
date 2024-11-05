@@ -1,7 +1,7 @@
 # Hello, I’m Sanjivram Balasubramanian, a dedicated developer with expertise in multiple programming languages and frameworks, committed to creating efficient and scalable solutions.
 
 ## About Me
-- 🌱 I’m currently learning **[I am currently learning Python backend development, html5 C++.]**
+- 🌱 What I’m currently learning **[I am currently learning Python backend development, html5 C++.]**
 
 
 ## 🔧 Skills & Tools
