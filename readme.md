@@ -22,6 +22,7 @@ JavaScript: Experienced with popular JavaScript frameworks and libraries, includ
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=y8tireu&show_icons=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=y8tireu)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=y8tireu)
+![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs?username=y8tireu&show_icons=true&locale=en&layout=compact)
 
 
 ## Projects
