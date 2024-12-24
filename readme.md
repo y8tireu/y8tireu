@@ -40,6 +40,6 @@ JavaScript: Experienced with popular JavaScript frameworks and libraries, includ
 
 ## 📫 Connect with Me
 -Youtube:https://youtube.com/@y8tireu
--Website/Blog: (https://y8tireu.github.io/Website2)
+-Website/Blog: (https://y8tireu.github.io)
 -Email:y8tireu2@gmail.com
 
