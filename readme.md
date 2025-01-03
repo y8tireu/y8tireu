@@ -24,9 +24,7 @@ JavaScript: Experienced with popular JavaScript frameworks and libraries, includ
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=y8tireu)
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs?username=y8tireu&show_icons=true&locale=en&layout=compact)
 
-## Certificates
-![https://www.coursera.org/account/accomplishments/verify/9LDSXUS2VNSH?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-![https://www.freecodecamp.org/certification/y8tireu/data-analysis-with-python-v7)
+
 
 
 ## Projects
